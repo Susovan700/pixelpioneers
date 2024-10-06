@@ -1,0 +1,22 @@
+.navbar{
+    font-family: "Playwrite NG Modern", cursive;
+    padding: 20px 170px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar h1{
+    font-size: 40px;
+    font-weight: 600;
+    cursor :default;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+    gap:30px;
+    cursor :default;
+}
+.menu li:hover{
+    color:pink;
+}
